@@ -1,0 +1,5 @@
+[package]
+
+name = "rust-bf"
+version = "0.0.1"
+authors = ["Ethan Lewis <3thanlewis@gmail.com>"]
